@@ -24,6 +24,7 @@
 .card_descricao {
     display: flex;
     justify-content: space-between;
+    gap: 15px;
     margin-bottom: 0.5em;
 }
 
@@ -45,6 +46,10 @@
     padding: 1em;
 }
 
+.descricao__estrelas {
+    margin: 0.5em 0;
+}
+
 .descricao__titulo {
     color: var(--laranja);
     font-weight: 700;
@@ -59,10 +64,7 @@
 
 .descricao__texto {
     font-size: 14px;
-}
-
-.descricao__imagem {
-    width: 309px;
+    line-height: 1.3em;
 }
 
 .botoes__item {
