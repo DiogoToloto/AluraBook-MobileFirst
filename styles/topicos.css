@@ -1,5 +1,5 @@
 .topicos {
-    background-color: var(--azul);
+    background-image: var(--azul-degrade);
     text-align: center;
     padding: 1em 0;
 
