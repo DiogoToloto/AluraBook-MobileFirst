@@ -38,6 +38,7 @@
   position: absolute;
   top: 100%;
   width: 60vw;
+  z-index: 1;
 }
 
 .container__botao {
